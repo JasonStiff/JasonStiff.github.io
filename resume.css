@@ -1,10 +1,13 @@
 p{
     font-family: monospace;
 }
-h2 li {
+h2 {
     font-family: monospace;
 }
 #ed{
     background-color: rgb(94, 91, 88);
     
+}
+li{
+    font-family: monospace;
 }
